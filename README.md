@@ -9,7 +9,10 @@ In today’s competitive B2B landscape, data-driven decision-making is key to ma
 3. Evaluate **product performance** to focus on high-revenue offerings.  
 4. Assess the impact of **company size and account age** on win rates.  
 5. Determine the **average sales cycle duration** for better forecasting.  
-6. Provide **data-backed strategies** to boost overall sales performance.  
+6. Provide **data-backed strategies** to boost overall sales performance.
+
+### **Tools**
+The tool used in carrying out this analysis is Microsoft's **SQL Server Management Studio (SSMS)**
 
 ---
 
