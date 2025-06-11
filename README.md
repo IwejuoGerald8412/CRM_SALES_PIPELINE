@@ -25,6 +25,7 @@ The tool used in carrying out this analysis is Microsoft's **SQL Server Manageme
 **Findings:**  
 - **Melvin Marxen’s team (Central Region)** closed the **highest deal value ($2.25M)** with a **45.7% win rate**.  
 - **Rocco Neubert’s team (East Region)** had the **highest win rate (52%)**, closing **$1.96M** in deals.  
+
 **Recommendation:**  
 - **Study and replicate** winning strategies (e.g., negotiation tactics, deal-handling techniques) across all regions.  
 
@@ -35,6 +36,7 @@ The tool used in carrying out this analysis is Microsoft's **SQL Server Manageme
 **Findings:**  
 - **Reed Clapper** closed **155 deals (65.4% win rate)**, making him the **top performer**.  
 - Some agents had low win rates despite similar opportunities, indicating skill gaps.  
+
 **Recommendation:**  
 - **Coach underperforming agents** using top performers’ techniques.  
 - **Reassign roles** if performance doesn’t improve.  
@@ -45,6 +47,7 @@ The tool used in carrying out this analysis is Microsoft's **SQL Server Manageme
 
 **Findings:**  
 - The number of deals and revenue peaks quarterly particularly at the end of each quarter, suggesting seasonal trends or successful campaigns.  
+
 **Recommendation:**  
 - **Boost promotions & outreach** before quarter-end to capitalize on high-conversion periods.  
 
@@ -55,6 +58,7 @@ The tool used in carrying out this analysis is Microsoft's **SQL Server Manageme
 **Findings:**  
 - **GTX Plus Pro** had the **highest revenue ($2.63M)** and **48.5% win rate**, despite fewer deals.  
 - Some products underperformed in both win rate and revenue.  
+
 **Recommendation:**  
 - **Focus sales & marketing** on high-performing products.  
 - **Review or phase out** low-performing products.  
@@ -66,6 +70,7 @@ The tool used in carrying out this analysis is Microsoft's **SQL Server Manageme
 **Findings:**  
 - **Small businesses** had the **highest win rate (61.8%)** but fewer deals.  
 - **Medium/large firms** contributed **more closed deals overall**.  
+
 **Recommendation:**  
 - **Small businesses:** Offer **flexible, quick-win solutions**.  
 - **Large firms:** Focus on **long-term contracts & value-added services**.  
@@ -78,6 +83,7 @@ The tool used in carrying out this analysis is Microsoft's **SQL Server Manageme
 **Findings:**  
 - **Average deal closure time: 47 days**.  
 - **Cecily Lampkin** closed deals fastest (**38 days avg.**).  
+
 **Recommendation:**  
 - **Train teams and agents** to reduce sales cycle time.  
 - **Set realistic targets** based on historical data.  
@@ -89,6 +95,7 @@ The tool used in carrying out this analysis is Microsoft's **SQL Server Manageme
 
 **Findings:**  
 - **Newer accounts (post-2015)** converted **better than older ones**.  
+
 **Recommendation:**  
 - **Prioritize new accounts** with **welcome offers & faster onboarding**.  
 
